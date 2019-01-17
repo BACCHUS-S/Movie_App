@@ -1,1 +1,2 @@
-Movie app with react
+movie_app
+Source for React JS Fundamentals Course on Nomad Academy
