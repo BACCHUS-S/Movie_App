@@ -1,2 +1,3 @@
-movie_app
-Source for React JS Fundamentals Course on Nomad Academy
+Adding Deploying a Create React App to Github pages
+
+● https://oronaminc.github.io/movie_app/
